@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(255, 210, 114);
+}
+
+.default-padding {
+  padding: 10px;
+}
+.leftbar {
+  background-color: #ffffff;
+  padding: 20px;
+  overflow-y: scroll;
+  height: 45vh;
+  border-radius: 10px;
+}
+.title {
+  padding-bottom: 5px;
+  border-bottom: 2px solid #a2a2a2;
+}
+.rightbar {
+  background-color: #ffffff;
+  padding: 20px;
+  height: 45vh;
+  border-radius: 10px;
+}
+
+.qa-bar{
+    padding: 10px;
+}
